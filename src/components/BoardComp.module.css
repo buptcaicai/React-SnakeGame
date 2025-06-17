@@ -1,0 +1,18 @@
+div.board {
+   display: grid;
+   width: 90vmin;
+   height: 90vmin;
+}
+
+div.tile {
+   background: rgb(167, 167, 167);
+   border: 1px solid gray;
+}
+
+div.tile.snake {
+   background: rgb(255, 187, 0);
+}
+
+div.tile.food {
+   background: green;
+}
