@@ -1,1 +1,1 @@
-A snake game demo implemented with React
+A snake game demo implemented with `React`
